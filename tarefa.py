@@ -17,3 +17,5 @@ def buscar_tarefas():
     conn.close()
 
     return jsonify(tarefas)
+
+    
